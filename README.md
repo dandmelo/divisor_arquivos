@@ -1,4 +1,4 @@
-# Divisor_Arquivos (.RET/.TXT)
+# Divisor de Arquivos (.RET/.TXT)
 
 Este projeto foi criado no padrão de arquitetura de software MVC (Model-View-Controller). Surgiu da necessidade de dividir os arquivos de retorno bancário (extensão.RET) recebidos do Banco do Brasil pelo setor financeiro da empresa em que trabalhava. Em cada parte dividida, faz-se necessário incluir sempre o cabeçalho e rodapé. Além dos arquivos com a extensão .RET, é possível também dividir arquivos com a extensão .TXT.
 
